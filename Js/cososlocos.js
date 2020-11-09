@@ -9,3 +9,20 @@ function nosirvo(){
 
 return numero;
 }
+
+function nosirvopordos(){
+
+    var numero = 5;
+
+
+return numero;
+}
+
+function nosirvoportres(){
+
+    var numero = 5;
+
+
+return numero;
+}
+//Camara pinches webones hagan algo que yo me aventé el JS entero. A mimir.
